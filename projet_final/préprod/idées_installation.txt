@@ -1,6 +1,0 @@
-Chemin de DEL;
-Spot illuminant des arbres;
-Son spatialisé à heuteur d'oreille;
-Bâtons lumineux entourant les sentiers;
-Code QR illuminer en tout temps;
-Pattern change quand passant détecter;
