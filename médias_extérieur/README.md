@@ -1,3 +1,3 @@
-(https://sonobus.net/)
-(http://openstagecontrol.ammd.net/)
-(https://www.qlcplus.org/)
+- [Sonobus](https://sonobus.net/)
+- [Open Stage Control](http://openstagecontrol.ammd.net/)
+- [Qlc+](https://www.qlcplus.org/)
